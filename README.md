@@ -1,11 +1,14 @@
 ### Hi there 👋 
 My name is Adi and Im 22 years old.
 
+
+
 👨‍🎓 I’m currently studing for a B.Sc in Computer Science at Holon Institute of Technology.
 
 💻 Looking for a part-time job or internship opportunities as a Software Developer.
 
 Notable Projects:
+
 Arkanoid Game - Java
 
 <!--
