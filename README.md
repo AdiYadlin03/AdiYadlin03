@@ -9,7 +9,9 @@ My name is Adi and Im 22 years old.
 
 Notable Projects:
 
-Arkanoid Game - Java
++ Booking Crawler - Python
+
++ Arkanoid Game - Java
 
 ## My GitHub Stats:
 
