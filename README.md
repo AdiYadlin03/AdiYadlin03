@@ -16,6 +16,8 @@ Notable Projects:
 ## My GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiYadlin03&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats) 
 
+![](https://leetcard.jacoblin.cool/adiy272000?theme=graywhite)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiYadlin03&langs_count=8&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  Connect with me:
