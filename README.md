@@ -9,7 +9,7 @@ My name is Adi and Im 23 years old.
 
 Notable Projects:
 
-+ Booking Crawler - Python
++ Star Rating Prediction of Hotels in Paris(Booking Crawler) - Python
 
 + Arkanoid Game - Java
 
